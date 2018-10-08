@@ -20,4 +20,6 @@ Directory for chapter on an ensemble **time-series image processing** approach t
 
 Directory for chapter on an ensemble **entropy-weighted subspace clustering** algorithm I developed aimed at data of *small sample size and high dimensionality*.
 
-**Note: this algorithm has been used in two published academic manuscripts** 
+**Note: this algorithm has been used in two published academic manuscripts**
+
+
