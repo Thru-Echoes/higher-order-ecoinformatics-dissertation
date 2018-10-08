@@ -82,7 +82,7 @@ How does **L_1** influence the paths and relationships?
 
 #### Model of Variables Influencing LRS
 
-![model_of_lrs.png](attachment:model_of_lrs.png)
+![model_of_lrs.png](model_of_lrs.png)
 
 **Use vegetation variables** in *resources & environment* 
 
@@ -91,7 +91,7 @@ How does **L_1** influence the paths and relationships?
 **Could variables from nest behaviors** be used as a new *oval (i.e. set of variable types)* or directly impacts *maternal effects*? 
 
 
-![hidden_markov_chain.png](attachment:hidden_markov_chain.png)
+![hidden_markov_chain.png](hidden_markov_chain.png)
 
 **X:** states 
 
@@ -103,7 +103,7 @@ How does **L_1** influence the paths and relationships?
 
 ### Very Silly Example! 
 
-![hidden_markov_chain_example.png](attachment:hidden_markov_chain_example.png)
+![hidden_markov_chain_example.png](hidden_markov_chain_example.png)
 
 **Start:** start of an individual's breeding lifetime 
 
@@ -168,7 +168,7 @@ There are various ways to do this. One would be:
 
 #### Example of Object Recognition from Camera Trap Project 
 
-![camera_trap_processing_example.png](attachment:camera_trap_processing_example.png)
+![camera_trap_processing_example.png](camera_trap_processing_example.png)
 
 The figure above is taken from a manuscript I am a co-author on that is currently being reviewed in Science. We used deep learning to perform object recognition automatically across over 100k images and identified 20 different species. Most importantly, we decomposed the learning that the deep networks did to find what discriminative variables it learned to distinguish species by. We then could relate those variables back to ecologically meaningful information. This would allow us to create ecological variables of importance for future model building based on what correlations and co-variance structure the deep learning model found. 
 
@@ -225,7 +225,7 @@ The workflow for image processing of the nest recordings is described in the nex
 
 **Example of Classifying Behaviors**
 
-![image_processing_example.png](attachment:image_processing_example.png)
+![image_processing_example.png](image_processing_example.png)
 
 #### Some Extra Ideas
 
@@ -253,4 +253,4 @@ First version of PEARL: https://github.com/Thru-Echoes/PEARL1.0
 
 #### Example of PEARL app
 
-![pearl_example.png](attachment:pearl_example.png)
+![pearl_example.png](pearl_example.png)
